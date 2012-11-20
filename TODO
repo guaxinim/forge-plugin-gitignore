@@ -1,0 +1,2 @@
+- specify resource for list
+- allow completion to work for remove when context is parent directory
